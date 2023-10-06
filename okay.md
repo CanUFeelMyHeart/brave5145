@@ -12,3 +12,10 @@ I wanna show you off
 I wanna brag about it 
 
 I wanna tie the knot 
+What doesn't kill you makes you wish you were dead
+
+Got a hole in my soul growing deeper and deeper, and I can't take
+
+One more moment of this silence, the loneliness is haunting me
+
+And the weight of the world's getting harder to hold up
