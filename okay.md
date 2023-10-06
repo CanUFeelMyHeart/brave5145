@@ -34,3 +34,10 @@ In the kitchen, Michelin, irresistible
 Feeling prime, state of mind
 
 Finger lickin', yeah, we cookin' up a Super Bowl
+## Brand-new day, got a brand-new grin
+
+**Got a colony of ants underneath my skin**
+
+_My bones decay, now I'm gelatin_
+
+_**I swear I'm better, swear I'm better, Miss Parasite Possessor**_
