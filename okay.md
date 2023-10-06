@@ -19,3 +19,18 @@ Got a hole in my soul growing deeper and deeper, and I can't take
 One more moment of this silence, the loneliness is haunting me
 
 And the weight of the world's getting harder to hold up
+Finger lickin', yeah, we cookin' up a Super Bowl 
+
+In the kitchen, Michelin, irresistible 
+
+Open wide, have a bite (What?)
+
+Make it mine, all the time 
+
+Finger lickin', yeah, we cookin' up a Super Bowl
+
+In the kitchen, Michelin, irresistible
+
+Feeling prime, state of mind
+
+Finger lickin', yeah, we cookin' up a Super Bowl
