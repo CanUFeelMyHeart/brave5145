@@ -27,6 +27,9 @@ git commit -m "Первая версия файла"
 >**Пример использования:**  
 git log
 ## checkout
+Команда *checkout* позволяет переходить между ветками и коммитами
+>**Пример использования:**  
+git checkout branch_name
 ## diff
 ## clone
 ## push
