@@ -1,6 +1,9 @@
 # Git. Основные команды
 ![](https://git-scm.com/images/logos/2color-lightbg@2x.png)
 ## init
+Команда *init* инициализирует локальный репозиторий.  
+>**Пример использования:**  
+git init
 ## status
 ## add
 ## commit
