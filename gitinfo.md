@@ -31,6 +31,9 @@ git log
 >**Пример использования:**  
 git checkout branch_name
 ## diff
+Команда *diff* позволяет увидиеть разницу между коммитами
+>**Пример использования:**  
+git diff branchname
 ## clone
 ## push
 ## pull
