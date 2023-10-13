@@ -35,5 +35,9 @@ git checkout branch_name
 >**Пример использования:**  
 git diff branchname
 ## clone
+***Используется с GitHub***  
+Команда *clone* позволяет сохранить копию репозитория на GitHub локально на свой компьютер.
+>**Пример использования:**  
+git clone URL
 ## push
 ## pull
