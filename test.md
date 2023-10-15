@@ -11,3 +11,5 @@
 **git pull** – take changes and merging with local version
 
 **git push** – send local version on repo to outside
+
+## Hello from Merkhat
